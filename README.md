@@ -1,2 +1,1 @@
-# archxtasys
-Dotfiles of my Arch Linux environmnt
+# My config is still on process so wait for further updates. 
